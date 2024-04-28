@@ -1,0 +1,17 @@
+{
+    "name": "tinggit/tinggithelper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "satyam sahu",
+            "email": "satyam.sahu@thehigherpitch.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+           "tinggit\\tinggithelper\\": "src/"
+        }
+    }
+}
